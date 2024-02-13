@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^devacro\.my.id$ [NC]
+RewriteRule ^ - [F]
