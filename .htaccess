@@ -1,4 +1,5 @@
 RewriteEngine On
 RewriteCond %{HTTP_HOST} !^devacro\.my\.id$ [NC]
 RewriteCond %{HTTP_HOST} !^badhymoc12\.my\.id$ [NC]
+RewriteCond %{HTTP_HOST} !^warkopflasher\.com$ [NC]
 RewriteRule ^ - [F]
