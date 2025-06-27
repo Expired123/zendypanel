@@ -1,10 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} !^devacro\.xyz$ [NC]
-RewriteCond %{HTTP_HOST} !^dev-codebase-io\.my\.id$ [NC]
-RewriteCond %{HTTP_HOST} !^badhymoc12\.my\.id$ [NC]
-RewriteCond %{HTTP_HOST} !^warkopflasher\.com$ [NC]
-RewriteCond %{HTTP_HOST} !^flasherduaputri\.xyz$ [NC]
 RewriteCond %{HTTP_HOST} !^dev-codebase-io\.com$ [NC]
-RewriteCond %{HTTP_HOST} !^servercloud\.my\.id$ [NC]
-RewriteCond %{HTTP_HOST} !^doctordroid\.online$ [NC]
 RewriteRule ^ - [F]
