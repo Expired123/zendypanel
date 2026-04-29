@@ -1,3 +1,14 @@
 {
-  "allowed_domains": ["xdev.deploy.biz.id", "deploy.biz.id", "dev-codebase-io.org", "warkopflasher.com", "flasherduaputri.xyz", "ravasella.my.id", "napsprolite.net", "mogemod.online", "baslokdev.online", "rajadev.net"
+  "allowed_domains": [
+    "xdev.deploy.biz.id",
+    "deploy.biz.id",
+    "dev-codebase-io.org",
+    "warkopflasher.com",
+    "flasherduaputri.xyz",
+    "ravasella.my.id",
+    "napsprolite.net",
+    "mogemod.online",
+    "baslokdev.online",
+    "rajadev.net"
+  ]
 }
