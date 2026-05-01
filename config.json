@@ -2,8 +2,6 @@
   "allowed_domains": [
     "xdev.deploy.biz.id",
     "deploy.biz.id",
-    "dev-codebase-io.org",
-    "warkopflasher.com",
-    "flasherduaputri.xyz"
+    "dev-codebase-io.org"
   ]
 }
